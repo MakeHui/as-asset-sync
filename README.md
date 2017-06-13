@@ -4,7 +4,7 @@
 
 ## 安装
 
-下载该仓库解压, 得到插件包
+下载该仓库解压, 得到插件包, 并拷贝到插件目录
 
 ### 全局安装
 
@@ -21,6 +21,6 @@ Mac $HOME/.CocosCreator/packages
 
 ## 使用
 
-安装完后, 无需任何额外操作, 点击构建后就会自动完成工作.
+安装完后, 无需任何额外操作, 点击构建后会自动完成工作.
 
-[http://www.cocos.com/docs/creator/extension/install-and-share.html](ttp://www.cocos.com/docs/creator/extension/install-and-share.html)
+[cocos 官方文档](ttp://www.cocos.com/docs/creator/extension/install-and-share.html)
