@@ -23,4 +23,4 @@ Mac $HOME/.CocosCreator/packages
 
 安装完后, 无需任何额外操作, 点击构建后会自动完成工作.
 
-[cocos 官方文档](ttp://www.cocos.com/docs/creator/extension/install-and-share.html)
+[cocos 官方文档](http://www.cocos.com/docs/creator/extension/install-and-share.html)
